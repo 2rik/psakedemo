@@ -1,0 +1,5 @@
+D:\Tutorials\TeamCity Psake\Build\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Tutorials\TeamCity Psake\Build\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Tutorials\TeamCity Psake\Build\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Tutorials\TeamCity Psake\Build\UnitTestProject\obj\Debug\UnitTestProject.pdb
+D:\Tutorials\TeamCity Psake\Build\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

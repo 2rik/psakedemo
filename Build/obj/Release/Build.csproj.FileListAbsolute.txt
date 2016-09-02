@@ -1,0 +1,5 @@
+D:\Tutorials\TeamCity Psake\Build\.build\temp\Build.dll
+D:\Tutorials\TeamCity Psake\Build\.build\temp\Build.pdb
+D:\Tutorials\TeamCity Psake\Build\obj\Release\Build.csprojResolveAssemblyReference.cache
+D:\Tutorials\TeamCity Psake\Build\obj\Release\Build.dll
+D:\Tutorials\TeamCity Psake\Build\obj\Release\Build.pdb

@@ -1,0 +1,5 @@
+D:\Tutorials\TeamCity Psake\Build\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Tutorials\TeamCity Psake\Build\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Tutorials\TeamCity Psake\Build\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Tutorials\TeamCity Psake\Build\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Tutorials\TeamCity Psake\Build\ClassLibrary\obj\Debug\ClassLibrary.pdb

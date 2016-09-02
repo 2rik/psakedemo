@@ -1,0 +1,5 @@
+D:\Tutorials\TeamCity Psake\Build\.build\temp\ConsoleApplication.exe.config
+D:\Tutorials\TeamCity Psake\Build\.build\temp\ConsoleApplication.exe
+D:\Tutorials\TeamCity Psake\Build\.build\temp\ConsoleApplication.pdb
+D:\Tutorials\TeamCity Psake\Build\ConsoleApplication\obj\Release\ConsoleApplication.exe
+D:\Tutorials\TeamCity Psake\Build\ConsoleApplication\obj\Release\ConsoleApplication.pdb
