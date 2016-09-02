@@ -4,7 +4,7 @@
 remove-module [p]sake
 
 # find psake's path
-$psakeModule = (Get-ChildItem (".\packages\psake*\tools\psake.psm1")).FullName | Sort-Object $_ | select -last 1
+$psakeModule = (Get-ChildItem (".\Build\packages\psake*\tools\psake.psm1")).FullName | Sort-Object $_ | select -last 1
 
 Import-Module $psakeModule
 
