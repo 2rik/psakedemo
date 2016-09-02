@@ -8,7 +8,7 @@ $psakeModule = (Get-ChildItem (".\Build\packages\psake*\tools\psake.psm1")).Full
 
 Import-Module $psakeModule
 
-Invoke-psake -buildFile .\default.ps1 `
+Invoke-psake -buildFile .\Build\default.ps1 `
 			 -taskList Test `
 			 -properties @{ 
 				 "buildConfiguration" = "Release" ` 
